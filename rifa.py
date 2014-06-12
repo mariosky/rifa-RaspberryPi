@@ -41,7 +41,8 @@ participantes = (
     ("Jose", 11    ),
     ("Shuy Rz", 11    ),
     ("Marco Acr", 1    ),
-    ("Ivan", 5    ),
+    ("Ivan", 5    )
+    ("Gil", 5 ),
 )
 
 def genera_boletos(participante):
